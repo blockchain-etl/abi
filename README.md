@@ -12,4 +12,4 @@ For example, see record `93134f51be7080424794d99461bad41972bc9917057454045972a1b
 
 ## contributing
 
-You'll need to sign a [Contributor License Agreement](https://cla.developers.google.com/clas) before we'll accept a pull request. Use the same email as your github account, and include the screenshot under [cla](cla) in your first PR to be whitelisted.
+You'll need to sign a [Contributor License Agreement](https://cla.developers.google.com/clas) before we'll accept a pull request. Use the same email as your github account, and include the screenshot under [cla](cla) in your first PR to be whitelisted. For example of what's required, see [cla/allenday.png](cla/allenday.png).
